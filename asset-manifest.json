@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.ee1ae6e0.chunk.css",
-    "main.js": "/my-app/static/js/main.d54ab059.chunk.js",
-    "main.js.map": "/my-app/static/js/main.d54ab059.chunk.js.map",
+    "main.css": "/my-app/static/css/main.43a4362f.chunk.css",
+    "main.js": "/my-app/static/js/main.98f918e5.chunk.js",
+    "main.js.map": "/my-app/static/js/main.98f918e5.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.58a6d01e.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.58a6d01e.js.map",
     "static/js/2.5de0fd1c.chunk.js": "/my-app/static/js/2.5de0fd1c.chunk.js",
     "static/js/2.5de0fd1c.chunk.js.map": "/my-app/static/js/2.5de0fd1c.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.42797fc0e53fabb51969ab192f082429.js": "/my-app/precache-manifest.42797fc0e53fabb51969ab192f082429.js",
+    "precache-manifest.d48a4143a254ae7cf877308846b5b48a.js": "/my-app/precache-manifest.d48a4143a254ae7cf877308846b5b48a.js",
     "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.ee1ae6e0.chunk.css.map": "/my-app/static/css/main.ee1ae6e0.chunk.css.map",
+    "static/css/main.43a4362f.chunk.css.map": "/my-app/static/css/main.43a4362f.chunk.css.map",
     "static/js/2.5de0fd1c.chunk.js.LICENSE.txt": "/my-app/static/js/2.5de0fd1c.chunk.js.LICENSE.txt",
     "static/media/Infierno.png": "/my-app/static/media/Infierno.87a67d48.png",
     "static/media/Infierno2.png": "/my-app/static/media/Infierno2.1dd7c04a.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.58a6d01e.js",
     "static/js/2.5de0fd1c.chunk.js",
-    "static/css/main.ee1ae6e0.chunk.css",
-    "static/js/main.d54ab059.chunk.js"
+    "static/css/main.43a4362f.chunk.css",
+    "static/js/main.98f918e5.chunk.js"
   ]
 }
