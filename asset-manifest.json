@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.02f75352.chunk.css",
+    "main.css": "/my-app/static/css/main.1c0d5a66.chunk.css",
     "main.js": "/my-app/static/js/main.d54ab059.chunk.js",
     "main.js.map": "/my-app/static/js/main.d54ab059.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.58a6d01e.js",
@@ -8,9 +8,9 @@
     "static/js/2.5de0fd1c.chunk.js": "/my-app/static/js/2.5de0fd1c.chunk.js",
     "static/js/2.5de0fd1c.chunk.js.map": "/my-app/static/js/2.5de0fd1c.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.db22d6a08f207f6bcada099c157104a1.js": "/my-app/precache-manifest.db22d6a08f207f6bcada099c157104a1.js",
+    "precache-manifest.35391225ba27887b7049f52821bca00f.js": "/my-app/precache-manifest.35391225ba27887b7049f52821bca00f.js",
     "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.02f75352.chunk.css.map": "/my-app/static/css/main.02f75352.chunk.css.map",
+    "static/css/main.1c0d5a66.chunk.css.map": "/my-app/static/css/main.1c0d5a66.chunk.css.map",
     "static/js/2.5de0fd1c.chunk.js.LICENSE.txt": "/my-app/static/js/2.5de0fd1c.chunk.js.LICENSE.txt",
     "static/media/Infierno.png": "/my-app/static/media/Infierno.87a67d48.png",
     "static/media/Infierno2.png": "/my-app/static/media/Infierno2.1dd7c04a.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.58a6d01e.js",
     "static/js/2.5de0fd1c.chunk.js",
-    "static/css/main.02f75352.chunk.css",
+    "static/css/main.1c0d5a66.chunk.css",
     "static/js/main.d54ab059.chunk.js"
   ]
 }
