@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78eef9bd271bc5b6bfb6fcf732d2aec3",
+    "revision": "212ff9996ad2aa0e2e92c1f434353d33",
     "url": "/my-app/index.html"
   },
   {
-    "revision": "c13b25df19f38ad731b5",
-    "url": "/my-app/static/css/main.df2e6482.chunk.css"
+    "revision": "3e709a6ce1d8b308fa73",
+    "url": "/my-app/static/css/main.4b79a013.chunk.css"
   },
   {
     "revision": "fee4ecd64a60d964a053",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-app/static/js/2.5de0fd1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c13b25df19f38ad731b5",
-    "url": "/my-app/static/js/main.3bcb7bf7.chunk.js"
+    "revision": "3e709a6ce1d8b308fa73",
+    "url": "/my-app/static/js/main.d54ab059.chunk.js"
   },
   {
     "revision": "833d64ac4bae055be974",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "87a67d48b166463853e07da549d7086e",
     "url": "/my-app/static/media/Infierno.87a67d48.png"
+  },
+  {
+    "revision": "1dd7c04a0a3cd3eb1ba52d6c98cd21a5",
+    "url": "/my-app/static/media/Infierno2.1dd7c04a.png"
   },
   {
     "revision": "6ed8a14ed88b5355e6f8814e564ae51e",
